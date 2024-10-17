@@ -24,17 +24,12 @@
 <h2>Connect with me!</h2>
  <div align="center"> 
     <a href="https://youtube.com/@San30025?si=v3GXAImTjkmAvM4y">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/shayan_duck">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://github.com/tanyiya/tanyiya/blob/main/image/youtube.png" />
   </a>
   <a href="https://www.instagram.com/y1yaa_?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
+     <img src="https://github.com/tanyiya/tanyiya/blob/main/image/Instagram.png" /> 
   </a>
-      <a href="mailto:tanyiya04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+
 </div>
  
 <h2 align="center">🖥️Youtube Videos📁</h2>
