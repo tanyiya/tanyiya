@@ -1,15 +1,41 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Bomi3002.Bomi3002" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yi+Ya!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Sansita+Swashed&size=35&center=true&vCenter=true&color=B6E4F7&width=500&height=70&duration=4000&size=40&lines=Hi+Everyone!+👋;+Welcome+to+my+profile!;" />
 </h1>
 <br>
 <img src="https://github.com/Bomi3002/Bomi3002/blob/main/assets/poster.jpg" />
-I'm a Year 2 student in Computer Science (Data Engineering) studying in UTM. I really enjoy learning languages like C++, python, javascript. I also enjoy video editing, graphic designs in general. 
 
-<br/><br/><br/>
+<h2>🌟 About Me </h2>
+🎓 2nd-year Computer Science student <br>
+🌿 INFP | September 7 | Lover of all things blue 💙 <br><br>
 
- <hr/>
+🌱 **I'm Currently Learning**
+- 📚 Database concepts and SQL basics
+- 🧠 System development and software designs
+- 🖥️ Web programming, PHP, CSS
+
+✨ **Fun Facts**
+- I enjoy arts and crafts as well as gaming 🎨🎮
+- Love travelling and learning new languages ✈️🗺️
+
+<br/>
+
+<h2>Connect with me!</h2>
+ <div align="center"> 
+    <a href="https://youtube.com/@San30025?si=v3GXAImTjkmAvM4y">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/shayan_duck">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/y1yaa_?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
+  </a>
+      <a href="mailto:tanyiya04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
  
 <h2 align="center">🖥️Youtube Videos📁</h2>
 <br/>
@@ -27,21 +53,6 @@ I'm a Year 2 student in Computer Science (Data Engineering) studying in UTM. I r
 
   <br>
  </div>
- 
-<div align="center"> 
-    <a href="https://youtube.com/@San30025?si=v3GXAImTjkmAvM4y">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/shayan_duck">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/y1yaa_?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
-  </a>
-      <a href="mailto:tanyiya04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</div>
 
  <hr/>
  
