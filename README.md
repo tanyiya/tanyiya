@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Sansita+Swashed&size=35&center=true&vCenter=true&color=B6E4F7&width=500&height=70&duration=4000&size=40&lines=Hi+Everyone!+👋;+Welcome+to+my+profile!;" />
 </h1>
 <br>
-<img src="https://github.com/Bomi3002/Bomi3002/blob/main/assets/poster.jpg" />
+<img src="https://github.com/tanyiya/tanyiya/blob/main/image/IMG_1483.JPG" />
 
 <h2>🌟 About Me </h2>
 🎓 2nd-year Computer Science student <br>
