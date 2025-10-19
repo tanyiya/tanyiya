@@ -7,13 +7,13 @@
 <img src="https://github.com/tanyiya/tanyiya/blob/main/image/IMG_1483.JPG" />
 
 <h2>🌟 About Me </h2>
-🎓 2nd-year Computer Science student <br>
+🎓 3rd-year Computer Science student <br>
 🌿 INFP | September 7 | Lover of all things blue 💙 <br><br>
 
 🌱 **I'm Currently Learning**
-- 📚 Database concepts and SQL basics
+- 📚 Database concepts and SQL
 - 🧠 System development and software designs
-- 🖥️ Web programming, PHP, CSS
+- 🖥️ Unity / C# for game development
 
 ✨ **Fun Facts**
 - I enjoy arts and crafts as well as gaming 🎨🎮
