@@ -4,34 +4,66 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Sansita+Swashed&size=35&center=true&vCenter=true&color=B6E4F7&width=500&height=70&duration=4000&size=40&lines=Hi+Everyone!+👋;+Welcome+to+my+profile!;" />
 </h1>
 <br>
+
 <img src="https://github.com/tanyiya/tanyiya/blob/main/image/IMG_1483.JPG" />
 
-<h2>🌟 About Me </h2>
-🎓 3rd-year Computer Science student <br>
+<h2>🌟 About Me</h2>
+
+🎓 Final Year Computer Science Student specialising in Data Engineering <br>
 🌿 INFP | September 7 | Lover of all things blue 💙 <br><br>
 
+💡 Passionate about transforming data into meaningful insights and building efficient data solutions.
+
 🌱 **I'm Currently Learning**
-- 📚 Database concepts and SQL
-- 🧠 System development and software designs
-- 🖥️ Unity / C# for game development
+
+* 📊 Data Engineering and Data Pipelines
+* ☁️ Cloud Computing with AWS & Azure
+* 🔍 Big Data Processing with Apache Spark
+* 📈 Data Analytics and Machine Learning
 
 ✨ **Fun Facts**
-- I enjoy arts and crafts as well as gaming 🎨🎮
-- Love travelling and learning new languages ✈️🗺️
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+* I enjoy arts and crafts as well as gaming 🎨🎮
+* Love travelling and learning new languages ✈️🗺️
+* Always excited to explore new technologies and solve real-world problems through data 🚀
+
+---
+
+<h2>📂 My Portfolio</h2>
+
+📌 <a href="https://github.com/tanyiya/utm-data-engineering">Data Engineering ePortfolio</a>
+
+---
+
+<h3 align="left">🛠️ Tech Stack</h3>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</p>
+
+<h4>📊 Data & Analytics</h4>
+
+* Python (Pandas, NumPy, scikit-learn)
+* Apache Spark
+* Power BI
+* SQL & Database Management
+* AWS & Azure
+
+---
 
 <h2>
 <div align="right"> 
     <a href="https://youtube.com/@San30025?si=v3GXAImTjkmAvM4y">
-    <img src="https://github.com/tanyiya/tanyiya/blob/main/image/youtube.png" height="40" />
-  </a>
-  <a href="https://www.instagram.com/y1yaa_?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr">
-     <img src="https://github.com/tanyiya/tanyiya/blob/main/image/Instagram.png" height="40"/> 
-  </a>
-</div> </h2>
-
- 
-
-
+      <img src="https://github.com/tanyiya/tanyiya/blob/main/image/youtube.png" height="40" />
+    </a>
+    <a href="https://www.instagram.com/y1yaa_?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr">
+      <img src="https://github.com/tanyiya/tanyiya/blob/main/image/Instagram.png" height="40"/> 
+    </a>
+</div>
+</h2>
